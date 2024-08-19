@@ -1,0 +1,192 @@
+.secao1 {
+    background-color: #23272A;
+}
+.secao1 header{
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1172px;
+    min-height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin: auto;
+    
+}
+
+.secao1 main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.secao1 header img {
+    width: 124px;
+    padding-top: 0;
+}
+
+nav {
+    margin-right: 11px;
+    padding: 14px;
+    display: flex;
+    align-items: center;
+}
+nav a {
+    color: white;
+    margin: 0px auto;
+    padding: 23px;
+    font: 16px SemiBold;
+    text-decoration: none;
+    
+}
+.secao1 header button {
+    padding: 7px 16px;
+    color: #23272A;
+    background-color: white;
+    border-radius: 30px;
+    font-family: SemiBold;
+    border: 0;
+}
+
+.textos p {
+    padding-bottom: 24px;
+    font: 18px Medium;
+    color: white;
+}
+
+.botao {
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.botao button {
+    color: white;
+    font: 18px SemiBold;
+    background-color: #5865f2;
+    padding: 10px 50px;
+    border-radius: 40px;
+    border: 0;
+}
+.botao p {
+    font: 15px Normal;
+    padding: 20px;
+}
+.textos {
+    width: 540px;
+}
+.textos h1{
+    color: white;
+    font: 50px ExtraBold;
+    line-height: 50px;
+    padding-bottom: 24px;
+}
+
+.secao2 {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    max-width: 1180px;
+    margin: auto;
+    position: static;
+    padding-top: 120px;
+}
+
+
+
+.coluna1{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.coluna2 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin-top: 120px;
+    left: 28px;
+}
+
+.plataformTitulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    align-items: center;
+    background-color: #f6f6f6;
+    padding: 56px;
+    border-radius: 16px;
+    max-height: 494px;
+    overflow: hidden;
+    
+}
+
+.plataformTituloMac{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    align-items: center;
+    background-color: #f6f6f6;
+    padding: 26px;
+    border-radius: 16px;
+    max-height: 494px;
+    overflow: hidden; 
+}
+
+.secao2 h2 {
+    font: 30px Bold;
+}
+
+
+.secao2 img{
+    margin-top: 64px;
+}
+
+.secao2 button {
+    margin: 10px;
+    padding: 12px 32px 15px;
+    border-radius: 28px;
+    background-color: #23272A;
+    font: 20px SemiBold;
+    color: white;
+    border: 0;
+}
+
+.plataformSelect{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    align-items: flex-start;
+    background-color: #f6f6f6;
+    padding: 56px;
+    border-radius: 16px;
+    max-height: 494px;
+    overflow: hidden; 
+    font: 20px normal;
+    gap: 24px;
+}
+
+.select img{
+    height: 25;
+    width: 25;
+    
+}
+
+.select{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #23272A;
+    font: 20px SemiBold;
+    color: white;
+    border-radius: 28px;
+    padding: 12px 32px 15px;
+    gap: 8px;
+}

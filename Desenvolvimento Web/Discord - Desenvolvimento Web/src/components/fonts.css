@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Normal';
+    src: url('../assets/fonts/652736292cbf8363b43d077a_ggsans-Normal.woff2');
+}
+
+@font-face {
+    font-family: 'Bold';
+    src: url('../assets/fonts/652737c30510e4ad4333a424_ggsans-Bold.woff2');
+}
+
+@font-face {
+    font-family: 'Medium';
+    src: url('../assets/fonts/652737c319ba7da75394c4cb_ggsans-Medium.woff2');
+}
+
+@font-face {
+    font-family: 'SemiBold';
+    src: url('../assets/fonts/652737c319ba7da75394c4dc_ggsans-Semibold.woff2');
+}
+
+@font-face {
+    font-family: 'ExtraBold';
+    src: url('../assets/fonts/65273da62cbf8363b445b021_abcgintonord-800-extrabold.woff2');
+}
+
+@font-face {
+    font-family: 'NormalVariable';
+    src: url('../assets/fonts/65e5baf6b5e4414d366b9dd7_ABCGintoNormalVariable.ttf');
+}
