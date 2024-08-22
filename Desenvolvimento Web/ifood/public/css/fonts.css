@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'light';
+    src: url(../../public/assets/fonts/381d4e2515cc49f0-s.p.otf);
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(../../public/assets/fonts/ee826c832bffe352-s.p.otf);
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url(../../public/assets/fonts/bdf99ee6a558a558-s.p.otf);
+}
+
+@font-face {
+    font-family: 'extraBold';
+    src: url(../../public/assets/fonts/b642f206b45f6b28-s.p.otf);
+}
